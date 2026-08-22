@@ -21,7 +21,7 @@
 
 ```
 
-- 🎓 Estudiante nocturno de **Ingeniería Informática** (9° semestre) y **Tecnólogo en Desarrollo de Software**.
+- 🎓 Estudiante nocturno de **Ingeniería Informática** (10° semestre) y **Tecnólogo en Desarrollo de Software**.
 - 🐍 Especialista certificado en **Python y Big Data** por Huawei.
 - 📊 Certificado en **Scrum (Product Owner Expert)**.
 - 💻 Desarrollador **Full Stack**, con experiencia en proyectos privados bajo acuerdos de confidencialidad, enfocado en aplicaciones web escalables y entrega ágil.
